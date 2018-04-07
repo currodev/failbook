@@ -1,4 +1,15 @@
 pom.xml
 build/
 target/
-
+.classpath
+.project
+.settings
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
