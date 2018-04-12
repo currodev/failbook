@@ -19,6 +19,10 @@
 		<footer class="mastfoot mt-auto">
 			<div class="inner">
 				<p>
+					Download our <a
+						href="${pageContext.request.contextPath}/Download?name=license.txt">license</a>
+				</p>
+				<p>
 					Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>,
 					by <a href="https://twitter.com/mdo">@mdo</a>.
 				</p>

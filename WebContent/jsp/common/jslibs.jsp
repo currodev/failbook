@@ -5,3 +5,4 @@
     <script src="${pageContext.request.contextPath}/js/lib/bootstrap.min.js"></script>
     <script src="${pageContext.request.contextPath}/js/apiUtils.js"></script>
     <script src="${pageContext.request.contextPath}/js/validation.js"></script>
+    <script src="${pageContext.request.contextPath}/js/common.js"></script>
